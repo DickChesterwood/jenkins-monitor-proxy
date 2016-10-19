@@ -1,0 +1,29 @@
+32 bits unknown
+
+
+Bright up B3D4B87F
+Bright down 44490A7B
+Play 3195A31F
+On/off D7E84B1B
+
+Red A8E05FBB
+Green 3954B1B7
+Blue E318261B
+White 52A3D41F
+Pale Red 5B83B61B
+Pale green B5310E1F
+Pale Blue 73CEC633
+Pink E35A7437
+Orange B08CB7DF
+Blueish 410109DB
+Purple 7EC31EF7
+Pale Pink EE4ECCFB
+Pale Orange 488F3CBB
+Aqua A23C94BF
+Shock Purple F63C8657
+Ice Blue E721C0DB
+Yellow 3D9AE3F7
+Teal 97483BFB
+Shocking Pink DC0197DB
+Powder Blue 86B0E697
+
